@@ -31,9 +31,10 @@ This project provides practical examples to understand the impact of sharing res
    - Stop the alert
    - Set back StartFlag up
      
-**Accsess Shared Data Modified**
+**Modified Accsess Shared Data**
 - taskENTER_CRITICAL()
-- 
+- Access Shared Data
+- taskEXIT_CRITICAL()
 
 ## Hardware Used
 - STM32 Microcontroller
